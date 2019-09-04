@@ -3,7 +3,7 @@
 This is a realization of a computer game called "Game Of Life" written by C++. Here is the file structure:
 
 ```
-KmeansCluster
+GameOfLife
     |-- src
         |-- lifegame.cpp
         |-- lifegame.h
